@@ -2,7 +2,7 @@
 
 How to run 
 
-1- Clone the repo using the #"git clone" command
+1- Clone the repo using the "git clone" command
 
 
 
